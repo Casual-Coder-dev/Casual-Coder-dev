@@ -12,7 +12,7 @@
 * 🔭 Currently working on **Japanese Learning App** 🇯🇵
 * 🌱 Learning **Android Studio** & **OpenGL**
 * 💬 Ask me about **Java, C++, Unreal Engine, and Minecraft Modding**
-* ⚡ Fun fact: **I've been coding since I was 8, I'm 14!**
+* ⚡ Fun fact: **I've been coding since I was 8, I'm 14 :)**
     
 
 ## 🧰 Tech Stack
