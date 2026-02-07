@@ -7,10 +7,12 @@
   Making games go brrrr - Dani
 </p>
 ## 🚀 About Me
-- 🔭 Currently working on **Japanese Learning App** 🇯🇵
-- 🌱 Learning **Android Studio** & **OpenGL**
-- 💬 Ask me about **Java, C++, Unreal Engine, and Minecraft Modding**
-- ⚡ Fun fact: I've been coding since I was 8, I'm 14 :)
+
+* 🔭 Currently working on **Japanese Learning App** 🇯🇵
+* 🌱 Learning **Android Studio** & **OpenGL**
+* 💬 Ask me about **Java, C++, Unreal Engine, and Minecraft Modding**
+* ⚡ Fun fact: **I've been coding since I was 8, I'm 14!**
+  
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="55" title="Unreal Engine" />
