@@ -45,7 +45,6 @@
     <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" />
   </a>
 </p>
----
 
 <h3 align="center">Connect for Commissions</h3>
 <p align="center">
