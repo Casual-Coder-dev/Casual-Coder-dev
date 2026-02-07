@@ -6,7 +6,6 @@
   <strong>Game Developer • Full-Stack Learner • Tech Explorer</strong><br/>
   Making games go brrrr - Dani
 </p>
-
 ## 🚀 About Me
 - 🔭 Currently working on **Japanese Learning App** 🇯🇵
 - 🌱 Learning **Android Studio** & **OpenGL**
@@ -45,6 +44,11 @@
     <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" />
   </a>
 </p>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg"  alt="Snake animation" />
+</h1>
+
 
 <h3 align="center">Connect for Commissions</h3>
 <p align="center">
