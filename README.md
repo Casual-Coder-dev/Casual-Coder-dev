@@ -9,8 +9,8 @@
 
 
 ## 🚀 About Me
-* 🔭 Currently working on **Fart_Riders**
-* 🌱 Learning **Android Studio** & **OpenGL**
+* 🔭 Currently working on **C++**
+* 🌱 Learning **C++** & **OpenGL**
 * 💬 Ask me about **Java, C++, Unreal Engine, and Minecraft Modding**
 * ⚡ Fun fact: **I've been coding since I was 8, I'm 14 :)**
     
