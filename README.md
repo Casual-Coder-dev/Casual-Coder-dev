@@ -35,8 +35,16 @@
 
 ## 🏆 Featured Projects
 <p align="left">
-  <a href="https://github.com/Casual-Coder-dev/ESP32-Mini-1-N8-Devboard-">
-    <img src="https://img.shields.io/badge/Project-ESP32--Mini--Devboard-BD93F9?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Casual-Coder-dev/Zorb">
+    <img src="https://img.shields.io/badge/Project-Zorb-BD93F9?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Finished-green?style=for-the-badge" />
+  </a>
+</p>
+
+## 🏆 Featured Projects
+<p align="left">
+  <a href="https://github.com/Casual-Coder-dev/C-Calculator">
+    <img src="https://img.shields.io/badge/Project-C-Calculator-BD93F9?style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/Finished-green?style=for-the-badge" />
   </a>
 </p>
