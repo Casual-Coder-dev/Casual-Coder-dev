@@ -40,11 +40,9 @@
     <img src="https://img.shields.io/badge/Finished-green?style=for-the-badge" />
   </a>
 </p>
-
-## 🏆 Featured Projects
 <p align="left">
   <a href="https://github.com/Casual-Coder-dev/C-Calculator">
-    <img src="https://img.shields.io/badge/Project-C-Calculator-BD93F9?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Project-Calculator-BD93F9?style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/Finished-green?style=for-the-badge" />
   </a>
 </p>
